@@ -18,4 +18,4 @@ def plot(scores, mean_scores):
     plt.show(block=False)
     plt.pause(.1)
 
-#this is new change 
+#this is part of new change 

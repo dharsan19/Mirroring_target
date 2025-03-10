@@ -153,4 +153,4 @@ class SnakeGameAI:
 
         self.head = Point(x, y)
 
-#this is new change 
+#this is part of new change 
